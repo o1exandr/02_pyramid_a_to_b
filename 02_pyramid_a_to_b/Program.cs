@@ -12,7 +12,7 @@
 using System;
 
 
-namespace _01_salary_employee
+namespace _02_pyramid_a_to_b
 {
     class Program
     {
